@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 174.6 149.2" style="enable-background:new 0 0 174.6 149.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#outer_ear_3_);stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:url(#inner_3_);stroke:#000000;stroke-miterlimit:10;}
+	.st2{fill:url(#outer_ear_4_);stroke:#000000;stroke-miterlimit:10;}
+	.st3{fill:url(#inner_4_);stroke:#000000;stroke-miterlimit:10;}
+	.st4{fill:url(#head_1_);stroke:#000000;stroke-miterlimit:10;}
+	.st5{stroke:#000000;stroke-miterlimit:10;}
+	.st6{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st7{fill:url(#white_fluid_2_);}
+	.st8{fill:url(#white_fluid_3_);}
+	.st9{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st10{fill:#939598;}
+</style>
+<g id="ear_2_">
+	
+		<linearGradient id="outer_ear_3_" gradientUnits="userSpaceOnUse" x1="-12.3061" y1="212.2282" x2="-59.7715" y2="184.8241" gradientTransform="matrix(0.2105 0.9201 0.9295 -0.2127 -150.0166 111.8296)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="7.380247e-003" style="stop-color:#F4F4F5"/>
+		<stop  offset="4.767627e-002" style="stop-color:#CECFD1"/>
+		<stop  offset="9.308982e-002" style="stop-color:#AAACAF"/>
+		<stop  offset="0.1419" style="stop-color:#8D8F92"/>
+		<stop  offset="0.195" style="stop-color:#757679"/>
+		<stop  offset="0.2537" style="stop-color:#5F6063"/>
+		<stop  offset="0.32" style="stop-color:#4C4C4E"/>
+		<stop  offset="0.3974" style="stop-color:#38383A"/>
+		<stop  offset="0.4931" style="stop-color:#1E1E1F"/>
+		<stop  offset="0.6274" style="stop-color:#070708"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="outer_ear_2_" class="st0" d="M31.9,62.2c14.6-3.3,23.8-17.8,20.5-32.3S34.1,7.6,19.8,12.2C5.4,16.9-2,27.3,1.3,41.8
+		S17.3,65.5,31.9,62.2z"/>
+	
+		<linearGradient id="inner_3_" gradientUnits="userSpaceOnUse" x1="-37.776" y1="188.258" x2="-17.5328" y2="199.9454" gradientTransform="matrix(0.2141 0.9356 0.9748 -0.223 -149.8163 112.3088)">
+		<stop  offset="9.318995e-002" style="stop-color:#68696B"/>
+		<stop  offset="0.9964" style="stop-color:#A7A9AC"/>
+	</linearGradient>
+	<path id="inner_2_" class="st1" d="M36,59.6c10.4-2.4,17-12.4,14.7-22.4c-2.3-10-12.6-16.2-23-13.8S10.7,35.8,13,45.8
+		S25.6,62,36,59.6z"/>
+</g>
+<g id="ear_1_">
+	
+		<linearGradient id="outer_ear_4_" gradientUnits="userSpaceOnUse" x1="19.5954" y1="350.2401" x2="-27.8699" y2="322.8359" gradientTransform="matrix(-0.2105 0.9201 -0.9295 -0.2127 459.6134 111.8296)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="7.380247e-003" style="stop-color:#F4F4F5"/>
+		<stop  offset="4.767627e-002" style="stop-color:#CECFD1"/>
+		<stop  offset="9.308982e-002" style="stop-color:#AAACAF"/>
+		<stop  offset="0.1419" style="stop-color:#8D8F92"/>
+		<stop  offset="0.195" style="stop-color:#757679"/>
+		<stop  offset="0.2537" style="stop-color:#5F6063"/>
+		<stop  offset="0.32" style="stop-color:#4C4C4E"/>
+		<stop  offset="0.3974" style="stop-color:#38383A"/>
+		<stop  offset="0.4931" style="stop-color:#1E1E1F"/>
+		<stop  offset="0.6274" style="stop-color:#070708"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="outer_ear_1_" class="st2" d="M142.7,62.2c-14.6-3.3-23.8-17.8-20.5-32.3c3.3-14.5,18.3-22.3,32.6-17.7
+		c14.5,4.7,21.9,15.1,18.6,29.6C170,56.3,157.3,65.5,142.7,62.2z"/>
+	
+		<linearGradient id="inner_4_" gradientUnits="userSpaceOnUse" x1="-6.4041" y1="319.8574" x2="13.8391" y2="331.5448" gradientTransform="matrix(-0.2141 0.9356 -0.9748 -0.223 459.413 112.3088)">
+		<stop  offset="9.318995e-002" style="stop-color:#68696B"/>
+		<stop  offset="0.9964" style="stop-color:#A7A9AC"/>
+	</linearGradient>
+	<path id="inner_1_" class="st3" d="M138.6,59.6c-10.4-2.4-17-12.4-14.7-22.4s12.6-16.2,23-13.8s17,12.4,14.7,22.4
+		S149,62,138.6,59.6z"/>
+</g>
+<radialGradient id="head_1_" cx="84.219" cy="93.6845" r="77.3703" gradientTransform="matrix(0.9649 0 0 0.8201 2.9587 8.4448)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.448" style="stop-color:#FCFCFC"/>
+	<stop  offset="0.6093" style="stop-color:#F5F5F5"/>
+	<stop  offset="0.7243" style="stop-color:#EBEBEC"/>
+	<stop  offset="0.8173" style="stop-color:#DCDEDF"/>
+	<stop  offset="0.897" style="stop-color:#CACCCE"/>
+	<stop  offset="0.9662" style="stop-color:#B4B6B8"/>
+	<stop  offset="1" style="stop-color:#A7A9AC"/>
+</radialGradient>
+<path id="head" class="st4" d="M158.8,95.2c-1.4,35-33.4,53.5-74.6,53.5S9.6,130.3,9.6,95.2c0-36.9,33.8-75.4,74.6-73.4
+	C130.9,24.3,160.2,58.8,158.8,95.2z"/>
+<g id="eye_1_">
+	<g id="XMLID_1_">
+		<path id="eye" class="st5" d="M70.8,82.8c0.1,11.1-21.5,10.8-29.4,8.5C29.9,88.1,30.2,71.7,37.1,61s23.1-17.9,29.4-8.5
+			C70.5,58.2,70.7,71.5,70.8,82.8z"/>
+		<path id="ref" class="st6" d="M70.1,73.4c-0.1,9.8-4.4,15.5-10.8,14.1c-5.7-1.3-12.6-5.6-13-13.3c-0.4-7.7,6.1-17.4,11.9-18.4
+			C64.6,54.8,70.2,59.3,70.1,73.4z"/>
+		<circle id="pupil" class="st5" cx="61.8" cy="72.4" r="6.7"/>
+		<radialGradient id="white_fluid_2_" cx="65.2352" cy="70.487" r="2.5751" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#E6E7E8"/>
+		</radialGradient>
+		<ellipse id="white_fluid" class="st7" cx="65.2" cy="70.5" rx="2.5" ry="2.7"/>
+	</g>
+	<g id="XMLID_7_">
+		<path id="eye_2_" class="st5" d="M100.3,82.8c-0.1,11.1,21.5,10.8,29.4,8.5c11.4-3.2,11.2-19.6,4.2-30.3
+			c-7-10.7-23.1-17.9-29.4-8.5C100.5,58.2,100.3,71.5,100.3,82.8z"/>
+		<path id="ref_1_" class="st6" d="M100.9,73.4c0.1,9.8,4.4,15.5,10.8,14.1c5.7-1.3,12.6-5.6,13-13.3c0.4-7.7-6.1-17.4-11.9-18.4
+			C106.4,54.8,100.8,59.3,100.9,73.4z"/>
+		<circle id="pupil_1_" class="st5" cx="109.2" cy="72.4" r="6.7"/>
+		
+			<radialGradient id="white_fluid_3_" cx="146.671" cy="70.487" r="2.5751" gradientTransform="matrix(-1 0 0 1 252.4542 0)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#E6E7E8"/>
+		</radialGradient>
+		<ellipse id="white_fluid_1_" class="st8" cx="105.8" cy="70.5" rx="2.5" ry="2.7"/>
+	</g>
+</g>
+<path id="Nose" class="st5" d="M102,111c0,5.4-7.5,11.8-16.7,11.8s-16.7-6.4-16.7-11.8s7.5-7.8,16.7-7.8S102,105.6,102,111z"/>
+<g id="Mouth">
+	<path id="mouth2" class="st9" d="M84.2,122.8c0,3.6,1.1,6.7-2.1,8.7c-5.7,3.7-11.9,2.7-17-1.6"/>
+	<path id="mouth1" class="st9" d="M104.8,129.9c-6,5.9-13,4.7-20.6,0"/>
+</g>
+<g id="Hair">
+	<path id="XMLID_3_" class="st10" d="M82.4,37.5C84,26.3,78.7,18,70.2,10.9c13.9,3.2,23.3,9.6,25.5,21.1L82.4,37.5z"/>
+	<path id="XMLID_4_" class="st10" d="M83.5,36.7c3.7-13.2,1-25.3-4.7-36.7C89.9,8.5,96.6,19.5,96,34.3L83.5,36.7z"/>
+	<path id="XMLID_5_" class="st10" d="M83.1,35.2c8.9-10.8,10.5-22.1,8.7-33.5c8.7,10.1,11.8,21.3,5.6,34.2L83.1,35.2z"/>
+</g>
+</svg>
