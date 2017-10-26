@@ -13,24 +13,24 @@
         android:layout_weight="1">
 
         <ImageView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_width="368dp"
+            android:layout_height="240dp"
             android:adjustViewBounds="true"
             android:scaleType="centerCrop"
-            android:src="@drawable/challenge_panda" />
+            android:src="@drawable/challenge_panda"
+            tools:layout_editor_absoluteY="8dp"
+            tools:layout_editor_absoluteX="8dp" />
 
         <TextView
-            android:layout_width="match_parent"
+            android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="8dp"
-            android:layout_marginEnd="8dp"
-            android:layout_marginStart="8dp"
             android:layout_marginTop="8dp"
             android:gravity="center"
             android:text="@string/you_completed_a_challenge"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent" />
+            app:layout_constraintTop_toTopOf="parent"
+            tools:layout_editor_absoluteX="8dp" />
 
     </android.support.constraint.ConstraintLayout>
 
@@ -40,40 +40,39 @@
         android:layout_weight="1">
 
         <ImageView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
             android:adjustViewBounds="true"
             android:scaleType="centerCrop"
             android:src="@drawable/challenge_bg"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent" />
+            app:layout_constraintTop_toTopOf="parent"
+            tools:layout_editor_absoluteX="8dp" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="8dp"
-            android:layout_marginEnd="8dp"
-            android:layout_marginStart="8dp"
             android:layout_marginTop="8dp"
             android:gravity="center"
             android:text="@string/hey_why_don_t_you_share_this_accomplishment_with_your_friends"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent" />
+            app:layout_constraintTop_toTopOf="parent"
+            tools:layout_editor_absoluteX="1dp" />
 
         <LinearLayout
             style="?android:attr/buttonBarStyle"
-            android:layout_width="match_parent"
+            android:layout_width="368dp"
             android:layout_height="wrap_content"
             android:layout_marginBottom="8dp"
-            android:layout_marginEnd="8dp"
-            android:layout_marginStart="8dp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent">
+            app:layout_constraintStart_toStartOf="parent"
+            tools:layout_editor_absoluteX="8dp">
 
             <Button
                 style="?android:attr/buttonBarButtonStyle"
