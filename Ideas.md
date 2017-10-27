@@ -1,5 +1,8 @@
-We Could use Device Administrator Settings in Android And Profile Installation in iOS to prevent it from uninstalling
-(or writing it to system in android)
+* take a pic with friends (using face detection it can check the numer of faces in the pic ) 
 
-And Force Install Blue Whale if(game.isplayed(False))
-[Just Kidding but something like that]
+
+* go out for a walk (can use gps as people are getting lazy) 
+
+
+* help someone (can be manually checked but not a good idea) 
+
